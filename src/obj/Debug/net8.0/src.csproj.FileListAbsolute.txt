@@ -1,0 +1,14 @@
+/media/jayslen/Personal/Programming/proyecto_final/src/bin/Debug/net8.0/src
+/media/jayslen/Personal/Programming/proyecto_final/src/bin/Debug/net8.0/src.deps.json
+/media/jayslen/Personal/Programming/proyecto_final/src/bin/Debug/net8.0/src.runtimeconfig.json
+/media/jayslen/Personal/Programming/proyecto_final/src/bin/Debug/net8.0/src.dll
+/media/jayslen/Personal/Programming/proyecto_final/src/bin/Debug/net8.0/src.pdb
+/media/jayslen/Personal/Programming/proyecto_final/src/obj/Debug/net8.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/media/jayslen/Personal/Programming/proyecto_final/src/obj/Debug/net8.0/src.AssemblyInfoInputs.cache
+/media/jayslen/Personal/Programming/proyecto_final/src/obj/Debug/net8.0/src.AssemblyInfo.cs
+/media/jayslen/Personal/Programming/proyecto_final/src/obj/Debug/net8.0/src.csproj.CoreCompileInputs.cache
+/media/jayslen/Personal/Programming/proyecto_final/src/obj/Debug/net8.0/src.dll
+/media/jayslen/Personal/Programming/proyecto_final/src/obj/Debug/net8.0/refint/src.dll
+/media/jayslen/Personal/Programming/proyecto_final/src/obj/Debug/net8.0/src.pdb
+/media/jayslen/Personal/Programming/proyecto_final/src/obj/Debug/net8.0/src.genruntimeconfig.cache
+/media/jayslen/Personal/Programming/proyecto_final/src/obj/Debug/net8.0/ref/src.dll
