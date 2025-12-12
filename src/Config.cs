@@ -8,8 +8,9 @@ namespace TrafficSimParallel.config
         public int SimulationSteps { get; }
         public int Threads { get; }
         public bool ShowMap { get; }
+        public bool Sequential { get; }
 
-        public SimulationConfig(int mapWidth, int mapHeight, int agentCount, int simulationSteps, int threads, bool showMap)
+        public SimulationConfig(int mapWidth, int mapHeight, int agentCount, int simulationSteps, int threads, bool showMap, bool sequential)
         {
             MapWidth = mapWidth;
             MapHeight = mapHeight;
@@ -17,6 +18,7 @@ namespace TrafficSimParallel.config
             SimulationSteps = simulationSteps;
             Threads = threads;
             ShowMap = showMap;
+            Sequential = sequential;
         }
     }
 
