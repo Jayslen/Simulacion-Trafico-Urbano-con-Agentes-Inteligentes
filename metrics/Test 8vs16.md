@@ -48,3 +48,12 @@
 
 - Cada paso se ejecuta aproximadamente a la mitad del tiempo al aumentar los hilos de 8 a 16, mostrando un buen aprovechamiento del paralelismo.  
 - Los pasos de cambio de semáforos incluyen operaciones de sincronización, pero el impacto en tiempo es similar al de un renderizado normal.  
+
+---
+
+## Screenshots
+**8 Núcleos:**
+![Texto alternativo](./images/8_threads.jpg)
+
+**16 Núcleos:**
+![Texto alternativo](./images/16_threads.jpg)
