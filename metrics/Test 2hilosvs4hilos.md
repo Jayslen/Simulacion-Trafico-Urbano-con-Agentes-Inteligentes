@@ -47,3 +47,13 @@
 
 
 **Observación:** La mejora al aumentar de 2 a 4 hilos es mínima (0.39%), lo que indica que la carga es más ligera para justificar el paralelismo adicional.
+
+## Screenshots
+**2 Núcleos:**
+
+![Texto alternativo](./images/2_threads.jpg)
+
+**4 Núcleos:**
+
+![Texto alternativo](./images/4_threads.jpg)
+
