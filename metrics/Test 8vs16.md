@@ -53,7 +53,9 @@
 
 ## Screenshots
 **8 Núcleos:**
+
 ![Texto alternativo](./images/8_threads.jpg)
 
 **16 Núcleos:**
+
 ![Texto alternativo](./images/16_threads.jpg)
