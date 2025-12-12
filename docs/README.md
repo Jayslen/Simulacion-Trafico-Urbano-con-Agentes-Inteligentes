@@ -1,7 +1,7 @@
 # TrafficSimParallel — Simulación de Tráfico con Paralelismo en C#
 Nuestro proyecto, Simulación Paralela de Tráfico Urbano con Agentes Inteligentes, consiste en el desarrollo de una simulación de tráfico urbano utilizando programación paralela en C#. El sistema modela el comportamiento de múltiples agentes (vehículos) desplazándose en un entorno bidimensional, gestionando su interacción con semáforos, carreteras, intersecciones y otros elementos del mapa.
 
-La simulación emplea estructuras de datos thread-safe, paralelismo con Parallel.ForEach, control concurrente de semáforos y un mapa generado dinámicamente o cargado desde archivos JSON. El objetivo principal es analizar el rendimiento, la sincronización y la escalabilidad de un sistema de tráfico urbano cuando se ejecuta en múltiples núcleos de CPU.
+La simulación emplea estructuras de datos thread-safe, paralelismo con Parallel.ForEach, control concurrente de semáforos y un mapa generado dinámicamente. El objetivo principal es analizar el rendimiento, la sincronización y la escalabilidad de un sistema de tráfico urbano cuando se ejecuta en múltiples núcleos de CPU.
 
 El proyecto permite evaluar:
 
