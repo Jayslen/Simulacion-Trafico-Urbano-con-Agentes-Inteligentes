@@ -45,4 +45,5 @@
 | 2 Hilos | 5930.23 ms | - | - |
 | 4 Hilos | 5907.12 ms | -23.11 ms | 0.39% |
 
-**Observación:** La mejora al aumentar de 2 a 4 hilos es mínima (0.39%), lo que indica que la carga computacional es muy ligera para justificar el paralelismo adicional.
+
+**Observación:** La mejora al aumentar de 2 a 4 hilos es mínima (0.39%), lo que indica que la carga es más ligera para justificar el paralelismo adicional.
